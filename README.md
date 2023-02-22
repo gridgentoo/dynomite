@@ -1,3 +1,5 @@
+Original repository.   
+https://github.com/Netflix/dynomite.    
 
 ![dynomite logo](images/dynomite-logo.png)
 
